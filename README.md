@@ -7,7 +7,7 @@ las imágenes necesarias, efectos de sonido y un lanzador para Windows.
 
 1. Instala Python 3.10 o superior (incluye Python 3.14).
 2. Extrae TODO el ZIP. No ejecutes el juego desde dentro del archivo comprimido.
-3. Abre la carpeta `spaceinvaders_final` y haz doble clic en `JUGAR_WINDOWS.bat`.
+3. Abre la carpeta extraída que contiene `main.py` y haz doble clic en `JUGAR_WINDOWS.bat`.
    El lanzador crea un entorno `.venv`, instala la dependencia la primera vez
    (requiere Internet) y abre el juego.
 
